@@ -1,0 +1,43 @@
+
+    [
+        
+      {
+        "id": 1,
+        "name": "Espa1",
+        "price": 19.99,
+        "category": "Nike",
+        "stock": 50
+       
+      },
+      {
+        "id": 2,
+        "name": "Espa2",
+        "price": 29.99,
+        "category": "Nike",
+        "stock": 75
+      },
+      {
+        "id": 3,
+        "name": "Espa3",
+        "price": 9.99,
+        "category": "Nike",
+        "stock": 30
+      },
+      {
+        "id": 4,
+        "name": "Espa4",
+        "price": 39.99,
+        "category": "Nike",
+        "stock": 20
+      },
+      {
+        "id": 5,
+        "name": "Espa5",
+        "price": 32.55,
+        "category": "Nike",
+        "stock": 20
+      }
+
+    ]
+    
+  
