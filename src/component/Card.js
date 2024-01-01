@@ -8,6 +8,11 @@ export const Card = ({dataprops}) => {
     <div className='container-card' key={item.id}>
         
         <div className='card-left'>
+        <div className="card-id"> ID: {item.id}</div>
+        <div className="picture-header">
+          <img src={item.image} />
+        </div>
+          
             <div className='picture-header'>
   
               </div>

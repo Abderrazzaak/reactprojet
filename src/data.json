@@ -6,36 +6,43 @@
         "name": "Espa1",
         "price": 19.99,
         "category": "Nike",
-        "stock": 50
-       
+        "stock": 50,
+        "image" : "https://ecomya.shop/35912-large_default/nike-air-force.jpg"
+        
       },
       {
         "id": 2,
         "name": "Espa2",
         "price": 29.99,
         "category": "Nike",
-        "stock": 75
+        "stock": 75,
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/aad37afd-a699-4a81-8dbe-34eabe885a03/chaussure-de-running-sur-route-a-lepreuve-des-intemperies-pegasus-shield-pour-hGGg1K.png"
+        
+        
       },
       {
         "id": 3,
         "name": "Espa3",
         "price": 9.99,
         "category": "Nike",
-        "stock": 30
+        "stock": 30,
+        "image" : "https://planetsport.ma/33391-home_default/nike-downshifter-11-gs-0222.jpg"
       },
       {
         "id": 4,
         "name": "Espa4",
         "price": 39.99,
         "category": "Nike",
-        "stock": 20
+        "stock": 20,
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/cea4d2b7-5bdd-4172-853c-6357c0e30664/chaussure-air-force-1-07-pour-3RD8Zk.png"
       },
       {
         "id": 5,
         "name": "Espa5",
         "price": 32.55,
         "category": "Nike",
-        "stock": 20
+        "stock": 20,
+        "image" : "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7b81dc45-116d-42ce-9d49-5a7c5c9bfa16/chaussure-dunk-low-pour-15mQNw.png"
       }
 
     ]
